@@ -1,0 +1,40 @@
+#!/bin/bash
+
+echo "🚀 Preparando Dashboard Bancamía para GitHub + Coolify"
+echo "=================================================="
+
+# Navegar al directorio del dashboard
+cd "$(dirname "$0")"
+
+echo "📁 Archivos preparados:"
+ls -la
+
+echo ""
+echo "🔧 Comandos para subir a GitHub:"
+echo "================================="
+echo ""
+echo "# 1. Inicializar repositorio Git"
+echo "git init"
+echo ""
+echo "# 2. Agregar archivos"
+echo "git add ."
+echo ""
+echo "# 3. Primer commit"
+echo "git commit -m \"Dashboard OpenWebUI Bancamía - Listo para Coolify\""
+echo ""
+echo "# 4. Agregar remote (CAMBIAR POR TU URL)"
+echo "git remote add origin https://github.com/TU-USUARIO/dashboard-bancamia.git"
+echo ""
+echo "# 5. Subir a GitHub"
+echo "git branch -M main"
+echo "git push -u origin main"
+echo ""
+echo "🌐 Después de subir, configurar en Coolify:"
+echo "=========================================="
+echo "Repository URL: https://github.com/TU-USUARIO/dashboard-bancamia"
+echo "Build Pack: Docker"
+echo "Variables de entorno:"
+echo "  DASHBOARD_USER=bancamia_admin"
+echo "  DASHBOARD_PASSWORD=tu_password_seguro"
+echo ""
+echo "✅ ¡Dashboard listo para desplegar!"

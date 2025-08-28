@@ -1,0 +1,26 @@
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Base de datos de respaldo (mantener webui.db para el despliegue)
+# webui.db  # Comentado porque necesitamos incluir la DB en el repo

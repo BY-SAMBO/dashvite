@@ -1,0 +1,15 @@
+# Archivos a ignorar en el build de Docker
+*.md
+*.html
+*.bat
+*.sh
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+.env
+.DS_Store
+.vscode/
+*.log
