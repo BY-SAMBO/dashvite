@@ -129,16 +129,14 @@ def load_data():
     try:
         conn = sqlite3.connect(db_path)
         
-        # Cargar usuarios (solo Bancamía)
+        # Cargar usuarios (solo Bancamía) - consulta simplificada
         users_df = pd.read_sql("""
-            SELECT id, name, email, role, 
-                   datetime(created_at, 'unixepoch') as created_at,
-                   datetime(last_active_at, 'unixepoch') as last_active_at
+            SELECT id, name, email, role, created_at, updated_at, last_active_at
             FROM user 
             WHERE email LIKE '%bancamia.com.co%'
         """, conn)
         
-        # Cargar chats de usuarios Bancamía
+        # Cargar chats de usuarios Bancamía - consulta simplificada
         chats_df = pd.read_sql("""
             SELECT c.id, c.title, c.chat, c.user_id,
                    u.name as user_name, u.email, u.role as user_role,
@@ -154,7 +152,9 @@ def load_data():
         
     except Exception as e:
         st.error(f"❌ Error al cargar los datos: {str(e)}")
-        st.stop()
+        st.write(f"Debug info: {e}")
+        # No parar la app, mostrar datos vacíos
+        return pd.DataFrame(), pd.DataFrame()
 
 def analyze_chat_quality(chat_json):
     """Analizar la calidad de un chat basado en su contenido"""
