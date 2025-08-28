@@ -1,0 +1,18 @@
+# Docker Compose para Coolify - Streamlit Dashboard
+version: '3.8'
+
+services:
+  dashboard:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - DASHBOARD_USER=${DASHBOARD_USER:-bancamia_admin}
+      - DASHBOARD_PASSWORD=${DASHBOARD_PASSWORD:-bootcamp2025!}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    restart: unless-stopped
