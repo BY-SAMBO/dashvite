@@ -94,10 +94,11 @@ CREATE TABLE chat (
 
 ### For Coolify
 
-1. Push to GitHub repository
-2. Configure Coolify to monitor the repository
-3. Set build command: `npm run build`
-4. Set output directory: `dist`
+1. **New Project** → **Git Repository**
+2. **Repository URL:** `https://github.com/BY-SAMBO/dashbancamia.git`
+3. **Branch:** `main`
+4. **Build Pack:** `Docker`
+5. **Port:** `80` (automatically configured in Dockerfile)
 
 ### Environment Variables
 
