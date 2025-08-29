@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  openwebui-dashboard:
+    build: .
+    ports:
+      - "3000:80"
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dashboard.rule=Host(`dashboard.bancamia.local`)"
+      - "traefik.http.services.dashboard.loadbalancer.server.port=80"

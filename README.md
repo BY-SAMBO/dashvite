@@ -1,108 +1,137 @@
-# vite-shadcn
+# OpenWebUI Dashboard - Bootcamp Bancamía
 
-VITE-SHADCN is a Shadcn Admin UI built with `Shadcn` , `Vite` , `React`,`Zustand`,`React-Router`
+A comprehensive analytics dashboard for tracking OpenWebUI usage during the Bancamía Innovation Bootcamp.
 
-English | [简体中文](./README.zh-CN.md)
+## Features
 
-<img height="500" src="./readme/images/dashboard.png">
+### 📊 Key Metrics
+- **User Analytics**: Total Bancamía users (@bancamia.com.co)
+- **Chat Analysis**: Valid interactions vs agent conversations
+- **Quality Scoring**: Intelligent assessment of chat completeness and depth
+- **Innovation Engagement**: Tracking of bootcamp workflow usage
 
-<img height="500" src="./readme/images/rechart.png">
+### 🎯 Smart Filtering
+- Filters for Bancamía corporate email domain only
+- Separates agent interactions (Finni, Paul Graham, Kiwi) from regular chats
+- Identifies bootcamp workflow patterns (entrevistas, usuarios-sintéticos, etc.)
 
-## 🚀 Quick Start
+### 📈 Visualizations
+- User quality ranking charts
+- Activity distribution pie charts
+- Innovation engagement analysis
+- Detailed user metrics table
+
+### 🧠 AI-Powered Analysis
+- Claude-based chat quality assessment
+- Interaction depth scoring
+- Completion rate calculation
+- Workflow type detection
+
+## Technology Stack
+
+- **Frontend**: React 19 + TypeScript
+- **UI Framework**: shadcn/ui + Tailwind CSS
+- **Charts**: Recharts
+- **Database**: SQLite with sql.js (client-side)
+- **Build Tool**: Vite
+- **Deployment**: Coolify via GitHub
+
+## Getting Started
+
+### Prerequisites
+- Node.js 18+
+- npm or pnpm
+
+### Installation
 
 ```bash
+# Clone the repository
+git clone <repository-url>
+cd openwebui-dashboard
+
+# Install dependencies
 npm install
+
+# Start development server
 npm run dev
 ```
 
-## ✅ Task List
+### Database Setup
 
-- [x] Initialize the project
-- [x] Set up environment: Vite + React + TypeScript + React Router + Zustand + Axios + MSW + ShadCN
-- [x] Implement dynamic permission-based routing
-- [x] Internationalization, theme color switching, and dark mode
-- [ ] Multiple layouts
-<details>
-<summary>Login and Route Permission Control</summary>
+The dashboard expects a SQLite database file at `public/webui_optimized.db` with the following structure:
 
-  - [x] Login functionality
-  - [x] Route access control
-  - [x] Role switching (supports fusion mode)
+```sql
+-- Users table
+CREATE TABLE user (
+  id VARCHAR(255),
+  name VARCHAR(255),
+  email VARCHAR(255),
+  role VARCHAR(255),
+  created_at INTEGER,
+  updated_at INTEGER,
+  last_active_at INTEGER
+);
 
-</details>
+-- Chats table
+CREATE TABLE chat (
+  id VARCHAR(255),
+  user_id VARCHAR(255),
+  title TEXT,
+  chat JSON,
+  created_at DATETIME,
+  updated_at DATETIME
+);
+```
 
-<details>
-<summary>Dashboard</summary>
+## Usage
 
-  - [x] Basic dashboard
-  - [ ] Situational Awareness - Cybersecurity
-  - [ ] Situational Awareness - Military
-  - [ ] Disaster Command
-  - [ ] Agriculture and Forestry Management
-  - [ ] Industrial Management
+1. **Navigate to OpenWebUI Analytics**: Use the sidebar menu
+2. **View Key Metrics**: Overview cards show totals and averages
+3. **Analyze Quality Scores**: Top 10 ranking chart shows best performers  
+4. **Check Activity Distribution**: Pie chart shows engagement levels
+5. **Review User Details**: Full table with all metrics per user
+## Deployment
 
-</details>
+### For Coolify
 
-<details>
-<summary>Component Library</summary>
+1. Push to GitHub repository
+2. Configure Coolify to monitor the repository
+3. Set build command: `npm run build`
+4. Set output directory: `dist`
 
-  - [ ] General components
-  - [ ] Form components (react-hook-form)
-  - [ ] Table components (tanstack/react-table)
-  - [ ] Custom components
+### Environment Variables
 
-</details>
+```bash
+VITE_ROUTE=browserRouter  # or hashRouter for GitHub Pages
+```
 
-<details>
-<summary>Charts</summary>
+## Metrics Explained
 
-  - [x] Recharts components
-  - [x] ECharts components
-  - [x] D3 components
-  - [ ] AntV components
+### Quality Score (0-100)
+Composite metric based on:
+- **Depth (40%)**: Average messages per valid chat
+- **Completion Rate (30%)**: Percentage of completed interactions
+- **Innovation Engagement (30%)**: Usage of bootcamp workflows
 
-</details>
+### Valid Interactions
+Criteria for valid chats:
+- ✅ Not agent conversations (excludes Finni, Paul Graham, Kiwi)
+- ✅ Minimum 5 messages (shows meaningful engagement)
+- ✅ Natural completion (user response or conclusion indicators)
 
-<details>
-<summary>3D</summary>
+### Bootcamp Workflows
+Tracked patterns:
+- 1.1-entrevistas (Interviews)
+- 2.1-usuarios-sinteticos (Synthetic Users)
+- 2.2-entrevista-sintetica (Synthetic Interview)
+- 3.1-generador-hipotesis (Hypothesis Generator)
+- 3.2-validacion-hipotesis (Hypothesis Validation)
+- 3.3-investigacion-prototipos (Prototype Research)
+- 4.1-metodologias (Methodologies)
 
-  - [ ] Babylon  
-  - [ ] Three.js
+## Contributing
 
-</details>
-
-<details>
-<summary>Map</summary>
-
-  - [ ] Cesium  
-  - [ ] Deck.gl  
-  - [ ] L7  
-  - [ ] Mapbox  
-  - [ ] OpenLayers
-
-</details>
-
-<details>
-<summary>System Management</summary>
-
-  - [x] User Management  
-  - [ ] Role Management  
-  - [ ] Menu Management  
-  - [ ] Permission Management  
-  - [ ] Group Management  
-  - [ ] Log Management  
-  - [ ] System Settings  
-  - [ ] Dictionary Management
-
-</details>
-
-<details>
-<summary>Backend Plan</summary>
-
-  - [ ] Develop backend APIs using Spring Boot  
-  - [ ] Implement microservices
-
-</details>
+This dashboard was created for the Bancamía Innovation Bootcamp. For modifications or issues, please contact the bootcamp facilitators.
 
 
 ## 🛠️ command
@@ -186,6 +215,10 @@ npm run dev
   - typescript-eslint: ^8.29.1
   - vite: ^6.2.6
 
-## 🧾 License
+## License
 
-This project is [MIT licensed](./LICENSE).
+Private - Bancamía Internal Use
+
+---
+
+*Built with ❤️ for Bancamía's AI Innovation Journey*
