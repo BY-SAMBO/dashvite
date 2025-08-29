@@ -1,0 +1,2577 @@
+{
+  "total_users": 30,
+  "total_chats": 131,
+  "total_valid_chats": 15,
+  "total_agent_chats": 2,
+  "avg_quality_score": 16.22453886693017,
+  "user_metrics": [
+    {
+      "user": {
+        "id": "57cdeff0-5a5a-4f62-b384-7506aea9fc62",
+        "name": "Cristiam Sebastián Chisaba Ramírez",
+        "email": "cristiam.chisaba@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075259,
+        "updated_at": 1755075259,
+        "last_active_at": 1755817797
+      },
+      "chats": [
+        {
+          "id": "61a920e1-87dd-479e-8a53-ff9b13243ec8",
+          "title": "Entrevistas a microempresarios 🗣️",
+          "depth": 38,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755813339,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Soy Alma, tu compañera del Bootcamp de Innovación con IA. Veo que estás trabajando en el proy...",
+            "ayudame a generar una entrevista teniendo presnete los puntos que indicas, adicionando esta problema..."
+          ]
+        },
+        {
+          "id": "1f0cc658-a5f2-4939-ad0b-854634881f34",
+          "title": "🎉 Fiesta de fin de semestre",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103203,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola\nNecesito que me ayudes a organizar una fiesta de fin de semestre",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow al hackathon de Bancamía. Cuéntame: ¿es...",
+            "Donde cada integrante tenga un rol específico"
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 38.0,
+      "completion_rate": 50.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 58.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "ad7230f4-e62e-4af9-a17a-add5c08328ae",
+        "name": "Gamaliel Herrera C",
+        "email": "gamaliel.herrera@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075258,
+        "updated_at": 1755075258,
+        "last_active_at": 1756207516
+      },
+      "chats": [
+        {
+          "id": "0bfa7dc4-48a4-40b8-af46-935570edaefa",
+          "title": "🗣️ Simulación JTBD Bancamía",
+          "depth": 14,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756198989,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía en el hackathon organizado por Xtrategia. Vamos a simular una e...",
+            "1- me llamo Gamaliel; a) Nombre y descripción del proyecto de innovación: Acelerar la captación de c..."
+          ]
+        },
+        {
+          "id": "aad0eec4-e195-4bee-b8f2-1a7ed4556a61",
+          "title": "MIS_Crear usuarios sintéticos 👥",
+          "depth": 38,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756172109,
+          "is_valid": true,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "B"
+          ]
+        },
+        {
+          "id": "3718e78e-4802-430b-8976-d46a6b39488c",
+          "title": "🚀 Acelerar captación de prospectos",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755970492,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Me alegra verte por aquí — soy Alma, tu compañera en el Bootcamp de Innovación. Confirmo que ..."
+          ]
+        },
+        {
+          "id": "5294c4d9-ab0e-4e44-bb64-9a9992bb9022",
+          "title": "Crear usuarios sintéticos 💬",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755970365,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "ddcb0471-7902-4b6d-bd26-827ecf1aee3f",
+          "title": "👥 Creación de usuarios sintéticos",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755970299,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "hola"
+          ]
+        },
+        {
+          "id": "b58e179b-cf31-4563-a5dd-b4b6f2284724",
+          "title": "Captación clientes urbanos 🎯",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755969997,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu acompañante en el Bootcamp de Innovación con IA de Bancamía. Veo que tu proyecto..."
+          ]
+        },
+        {
+          "id": "8d2f13f0-651c-487e-9120-2ea42ebba53a",
+          "title": "GAMA_Entrevistas para captar clientes 📋",
+          "depth": 34,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755962870,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Me alegra que quieras planear tus entrevistas. Confirmo que tu proyecto es: \"RETO 1: Acelerar...",
+            "iniciaré a responder aca en orden conforme me vayas envianso las preguntas"
+          ]
+        },
+        {
+          "id": "754d9a68-e849-4e3b-a984-1e37170ee200",
+          "title": "🗣️ Entrevistas para captación",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755962652,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            ""
+          ]
+        },
+        {
+          "id": "08330b06-52e6-4c9c-834a-632231213067",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755962246,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            ""
+          ]
+        },
+        {
+          "id": "9123fc3a-980b-41ed-8b46-d8985d6a5192",
+          "title": "Creación de usuarios sintéticos 👥",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615109,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "hola"
+          ]
+        },
+        {
+          "id": "9d4997c5-0f04-4635-b22a-ecd660c48f72",
+          "title": "Rumba Amor y Riesgos 🎉",
+          "depth": 18,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755102873,
+          "is_valid": false,
+          "messages_preview": [
+            "Que rumba es y porque la armamos?\nUna fiesta de tipo integración entre colaboradores de la misma vic...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ dar vida a la rumba de la VP de Riesgos en este Am...",
+            "voy a replanter la solicitud"
+          ]
+        }
+      ],
+      "total_chats": 11,
+      "valid_chats": 3,
+      "agent_chats": 0,
+      "avg_depth": 28.666666666666668,
+      "completion_rate": 27.27272727272727,
+      "innovation_engagement": 12.5,
+      "quality_score": 51.93181818181818,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "ef95c047-4b0d-44c4-8f0f-521faae11ef5",
+        "name": "Liliana Araujo",
+        "email": "monica.araujo@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075258,
+        "updated_at": 1755075258,
+        "last_active_at": 1756396712
+      },
+      "chats": [
+        {
+          "id": "5f662663-8a52-439c-8f35-78c6cf4dd0b1",
+          "title": "5 Hipótesis de Pago Empáticas 💡",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756354561,
+          "is_valid": false,
+          "messages_preview": [
+            "Teniendo en cuenta los usuarios sintèticos generados, las entrevistas sintèticas generadas y la info...",
+            "Aquí tienes cinco hipótesis diseñadas según tus criterios. Cada una incluye su métrica clave, un exp...",
+            "Adjunto dos entrevistas nuevas generada en campo y la siguiente informaciòn para ser tenida en cuent..."
+          ]
+        },
+        {
+          "id": "e8e39dde-f691-4a28-9049-9140e35c3575",
+          "title": "Usuarios sintéticos para cobranza 🤝",
+          "depth": 28,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756128887,
+          "is_valid": true,
+          "messages_preview": [
+            "Buenos días,Tenemos el siguiente problema:\nSe requiere métodos  y herramientas de negociación mas em...",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Veo que están trabaja...",
+            "Opción B"
+          ]
+        },
+        {
+          "id": "a2f231a3-a807-4b3f-bf13-f1432a02643b",
+          "title": "Entrevistas para cobranza empática 🤝",
+          "depth": 28,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755824174,
+          "is_valid": false,
+          "messages_preview": [
+            "De acuerdo al reto planteado y a la necesidad de incrementar las eficacias recuperatorias, tenemos l...",
+            "¡Hola! Confirmo que estamos trabajando sobre el reto: “Mejorar la eficiencia en recuperación de cart...",
+            "Te contesto algunas y agradecería tu apoyo con el template: Paso 1 — Diagnóstico inicial del proyect..."
+          ]
+        },
+        {
+          "id": "befb32ff-b126-48fb-a84f-69550f535a29",
+          "title": "Crear perfiles sintéticos 🏦",
+          "depth": 14,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755737744,
+          "is_valid": false,
+          "messages_preview": [
+            "Muy buenas noches",
+            "¡Muy buenas noches! Soy Alma, la guía de Bancamía para crear usuarios sintéticos realistas y acompañ...",
+            "B"
+          ]
+        },
+        {
+          "id": "3147fc1a-987b-40f1-a726-ee313e9a6c38",
+          "title": "Captación microempresarios urbanos 📈",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755722443,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Genial que quieras planear tus entrevistas — vamos a hacerlo paso a paso. Confirmo que trabaj...",
+            "Buenas tardes, estoy en el reto 3"
+          ]
+        },
+        {
+          "id": "dcea556f-7ef2-40b8-ad75-edddccb970cb",
+          "title": "Rumba Fin de Año 🎉",
+          "depth": 22,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755227936,
+          "is_valid": false,
+          "messages_preview": [
+            "Se desea organizar, presupuestar y proyectar una rumba con motivo: \"fin de año\" el dia 23 de Diciemb...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ montar la rumba de fin de año de la Vicepresidenci...",
+            "Ajustemos por favor el presupuesto a la mitad; confirmame además si aún así podemos contar con los m..."
+          ]
+        }
+      ],
+      "total_chats": 6,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 28.0,
+      "completion_rate": 16.666666666666664,
+      "innovation_engagement": 12.5,
+      "quality_score": 48.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "1e69778e-f872-4d2a-a590-0c7c6285d3f1",
+        "name": "Nury Mariela Orjuela Garcia",
+        "email": "nury.orjuela@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075260,
+        "updated_at": 1755075260,
+        "last_active_at": 1756324616
+      },
+      "chats": [
+        {
+          "id": "557d581b-487d-4560-86c9-7cf5a276fb73",
+          "title": "🚀 Bootcamp IA Bancamía",
+          "depth": 16,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756133633,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Bienvenido al Bootcamp de Innovación con IA de Bancamía. Soy Alma, tu guía para convertir tus...",
+            "extraelo"
+          ]
+        },
+        {
+          "id": "97e18840-386c-4b9e-8c23-74e1cb9c3521",
+          "title": "🗺️ Mapeo de procesos bancarios",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756130409,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Kiwi. Me encanta que estés aquí: tú eres el motor del cambio en Bancamía. Con actitud y u...",
+            "este es mi reto"
+          ]
+        },
+        {
+          "id": "3888602f-8025-48ce-836e-e53b9cb7e6b8",
+          "title": "Simulación JTBD Bancamía 🤖",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755616858,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Vamos a simular una entrevista de descubrimi..."
+          ]
+        },
+        {
+          "id": "c1e4688e-9951-4b3a-a7ab-fb24ed17c5a0",
+          "title": "Usuarios sintéticos Bancamía 🤝",
+          "depth": 40,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1755615987,
+          "is_valid": true,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "B"
+          ]
+        },
+        {
+          "id": "83348d16-7afb-449e-b39d-8e69115d32fc",
+          "title": "Usuarios sintéticos guiados 🏦",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615790,
+          "is_valid": false,
+          "messages_preview": [
+            "OPCION B",
+            "¡Perfecto — elegiste la Opción B! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos reali...",
+            "¿Como podríamos diseñar una experiencia bancaria que haga que nuestros clientes no quieran cambiarse..."
+          ]
+        },
+        {
+          "id": "52c81673-b458-4713-b985-75a89ea89dd1",
+          "title": "Entrevistas de fidelización 🤝",
+          "depth": 46,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755615578,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Soy Alma, tu compañera en el Bootcamp de Innovación con IA de Bancamía. Confirmo que trabajar...",
+            "*   ¿Cómo describirías, en una frase corta, el problema que queremos resolver?\n    \nQue podemos hace..."
+          ]
+        }
+      ],
+      "total_chats": 6,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 40.0,
+      "completion_rate": 16.666666666666664,
+      "innovation_engagement": 12.5,
+      "quality_score": 48.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "c7548813-c92d-47ec-83a4-35f25b8e46f4",
+        "name": "Josue",
+        "email": "josue.zapata@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755101526,
+        "updated_at": 1755101526,
+        "last_active_at": 1756401896
+      },
+      "chats": [
+        {
+          "id": "7e6dfa0c-0c4c-41a7-ab86-a6b25b064af6",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756344849,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "65525305-a5b3-4b0d-8b04-7ff3d45fb6d5",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756344768,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "42823de0-9595-4084-9f9f-ef82902de1e0",
+          "title": "🔎 Simulación JTBD Cobranza",
+          "depth": 16,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756330757,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Cuanta más profundidad y detalle ofrezcas en...",
+            "te puedo entrevistar"
+          ]
+        },
+        {
+          "id": "d5692e3a-220d-4374-9dba-ffc530fe4a6b",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756178985,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "3705396c-e7af-4fa3-baf4-c7a5475208f5",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756178766,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "83c32ab7-0b49-4946-9247-636122b145fe",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756178728,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "05c1f9a7-b594-4a63-8ed3-0a13d8e68240",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756177751,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "5e75be86-72ed-4ca6-9d3f-cce49ef3154c",
+          "title": "Cobranza empática y efectiva 🤝",
+          "depth": 40,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756125833,
+          "is_valid": false,
+          "messages_preview": [
+            "hola,",
+            "¡Hola! Confirmo que estás trabajando en el proyecto: \"RETO 3: Mejorar la eficiencia en recuperación ...",
+            "si vamos a organizarlo, te comparto sobre que esquema estamos trabajando para organizarlo"
+          ]
+        },
+        {
+          "id": "131f4dd8-c385-4fad-b8e9-5caa9ee4e395",
+          "title": "Asistente Visual Bancamía 🎨",
+          "depth": 38,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756056961,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Kiwi, tu aliada para darle vida a tus ideas con la estética auténtica de Bancamía 😎. ¿Qué...",
+            "me gustaría saber si me puedes ayudar con mi reto"
+          ]
+        },
+        {
+          "id": "12353285-06a5-480a-bad3-92487d846396",
+          "title": "Crear usuarios sintéticos 💬",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755980116,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "faf56df6-793b-4e99-98a2-2eddcec50ade",
+          "title": "Usuarios sintéticos Bancamía 👥",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755980048,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "f5e45f0a-b1a1-4592-a275-36ab9bc9b27f",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755979716,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "aa79a70d-50d1-436d-9fb6-0382f39d4346",
+          "title": "Guía Creativa Hackathon 🚀",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755979384,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle sabor al hackathon de Bancamía con metodolog..."
+          ]
+        },
+        {
+          "id": "d461ebeb-ec49-42a5-aa6f-f36edd5a2842",
+          "title": "Nuevo Chat",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755979257,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "",
+            "hola"
+          ]
+        },
+        {
+          "id": "9e5cff41-dbb8-4df8-b0e3-be90b2793636",
+          "title": "🤝 Cobranza Empática Efectiva",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755979066,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Qué más, parce! Soy Finni, tu compa creativo con todo el flow antioqueño para este Bootcamp de Banc..."
+          ]
+        },
+        {
+          "id": "60d25e7e-36d6-4d24-b7dc-6b4c0b709314",
+          "title": "Nuevo Chat",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755977754,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "",
+            "hola"
+          ]
+        },
+        {
+          "id": "251b7c4f-9d24-4a48-be40-920858bf4de9",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755977725,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "207262fc-bb79-4cf5-8d6c-4019f3e1d018",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755976996,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "93b1f076-6832-4e1e-b623-b2a962b4b76b",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755976974,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "17fcd203-a975-43de-9a23-69abf4181a84",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755976956,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "be98df3c-3ee8-4540-9388-7b06a6b296cc",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755976923,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            ""
+          ]
+        },
+        {
+          "id": "934836bb-85f5-482d-a237-990f9dd4259d",
+          "title": "Perfiles sintéticos Bancamía 🏦",
+          "depth": 198,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1755615099,
+          "is_valid": true,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "me puedes explicar que puedo hacer contigo, de una manera muy facil e ilustarada"
+          ]
+        },
+        {
+          "id": "fb0a1018-49ff-42e3-9569-2f9b1ab2310c",
+          "title": "Arrancando Hackathon Bancamía 🚀",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103034,
+          "is_valid": false,
+          "messages_preview": [
+            "hola buenos días",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la vibra al hackathon de Bancamía. Esto...",
+            "quiero contarte que me pidieron armar la fiesta de finde año del Banco"
+          ]
+        }
+      ],
+      "total_chats": 23,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 198.0,
+      "completion_rate": 4.3478260869565215,
+      "innovation_engagement": 0.0,
+      "quality_score": 41.30434782608695,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "8432fa92-c37f-4926-93e3-1a77b542987a",
+        "name": "Nataly Coral",
+        "email": "nataly.coral@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075264,
+        "updated_at": 1755075264,
+        "last_active_at": 1756339151
+      },
+      "chats": [
+        {
+          "id": "289678e5-74d8-4159-9abb-279c13574358",
+          "title": "💡 Hipótesis Digitalización Bancaria",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756134441,
+          "is_valid": false,
+          "messages_preview": [
+            "generar hipotesis",
+            "Basado en el Reto 4: “Digitalizar la experiencia sin perder el toque humano” [1], aquí tienes cinco ...",
+            "mi problema es: Desconoce por completo la aplicación o no entiende qué beneficios reales podría trae..."
+          ]
+        },
+        {
+          "id": "f11eaa34-1976-4049-9342-c67b58144ba6",
+          "title": "Encuesta clientes sin app 📋",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1755960971,
+          "is_valid": true,
+          "messages_preview": [
+            "Bancamia, es un banco de microfinanzas ubicado en Colombia con presencia en vario departamentos del ...",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos y herramientas útiles para el Bo...",
+            "B"
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 12.0,
+      "completion_rate": 50.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 39.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "54eba32f-90f7-43bb-8859-11ea93a7ad49",
+        "name": "Mario Alejandro Espinosa Perez",
+        "email": "mario.espinosa@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075265,
+        "updated_at": 1755075265,
+        "last_active_at": 1756133895
+      },
+      "chats": [
+        {
+          "id": "070b8308-44b4-4318-807d-b5e105ee9091",
+          "title": "Entrevistas poderosas para usuarios 🎙️",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755614691,
+          "is_valid": false,
+          "messages_preview": [
+            "como realizar entrevistas poderosas",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "encuesta enfocada en usuario de microfinanzas quien esta cancelando y terminando relacion con produc..."
+          ]
+        },
+        {
+          "id": "41377894-05ec-475c-baa5-aabe0ee39d26",
+          "title": "Paleta de Colores Drive 🎨",
+          "depth": 10,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1755179929,
+          "is_valid": true,
+          "messages_preview": [
+            "Mejorar el siguiente Drive con colores competitivos https://docs.google.com/spreadsheets/d/1Wa2RGlU9...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow y competitividad a ese spreadsheet de G...",
+            "opcion 1"
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 10.0,
+      "completion_rate": 50.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 38.74999999999999,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "6313b6f6-a78a-4cd7-949d-8ec49a167466",
+        "name": "Daniela Pinto Ortiz",
+        "email": "daniela.pinto@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075260,
+        "updated_at": 1755075260,
+        "last_active_at": 1756395051
+      },
+      "chats": [
+        {
+          "id": "2c8c1fe8-e103-4b16-90c4-b20685d3383a",
+          "title": "🧠 Generación de Hipótesis",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756394939,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola, deseo realizar la hipotesis",
+            "¡Hola! Soy Alma, tu guía especializada en Bancamía para este hackathon. Mi trabajo es ayudarte a tra...",
+            "Si"
+          ]
+        },
+        {
+          "id": "4a2e2915-5139-4743-ac6e-cab287ceceb6",
+          "title": "Entrevistas JTBD Sintéticas 🤝",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1756393554,
+          "is_valid": false,
+          "messages_preview": [
+            "Realizar las entrevistas sinteticas con estos perfiles y estas preguntas",
+            "Cuanta más profundidad y detalle ofrezcas en cada respuesta, más útiles y precisos serán mis simulac...",
+            "INTRODUCCIÓN (4 preguntas)\n1.       ¿Me permite tomar unos 30 minutos y grabar la conversación para ..."
+          ]
+        },
+        {
+          "id": "1878cbc2-ef92-49d0-815d-1d288d32cfba",
+          "title": "Usuarios sintéticos para hackathon 🏦",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756389202,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola, deseo realizar usuarios sinteticos",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "Tengo las preguntas de la entrevista y quiero enfocarme en 03 perfiles ¿Me permite tomar unos 30 min..."
+          ]
+        },
+        {
+          "id": "8a206ca7-079d-4f57-8c38-64b319486ba0",
+          "title": "Entrevistas cobranza empática 🤝",
+          "depth": 14,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": "Entrevistas",
+          "created_at": 1756387250,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Veo que tu proyecto es Reto 3: \"Mejorar la eficiencia en recuperación de cartera\" usando méto...",
+            "Área 1 — Problema (¿qué pasó?)\n1.1 El problema principal es el alto nivel de cartera vencida y baja ..."
+          ]
+        },
+        {
+          "id": "6e4e65c5-cfa3-4fce-8ee5-e5c55bef02f6",
+          "title": "JTBD: Recuperación de Cartera 🤝",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755738811,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "Cuanta más profundidad y detalle ofrezcas en cada respuesta, más útiles y precisos serán mis simulac...",
+            "Necesito tu ayuda para unificar el chat de entrevista con la creación de usuarios"
+          ]
+        },
+        {
+          "id": "04149612-efc4-4304-9ba8-406219208fdb",
+          "title": "Creación de usuarios sintéticos 👥",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1755738138,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "Opción A"
+          ]
+        },
+        {
+          "id": "f30df8e1-a773-42f1-b9cd-3b0579fdc8b4",
+          "title": "🤝 Entrevistas para cobranza empática",
+          "depth": 16,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755615035,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Veo que tu proyecto es: “RETO 3: Mejorar la eficiencia en recuperación de cartera — ¿Cómo pod...",
+            "1.1 Problema (¿qué queremos resolver?)\n*   Descripción simple del problema:  \n    El banco enfrenta ..."
+          ]
+        }
+      ],
+      "total_chats": 7,
+      "valid_chats": 2,
+      "agent_chats": 0,
+      "avg_depth": 13.0,
+      "completion_rate": 28.57142857142857,
+      "innovation_engagement": 12.5,
+      "quality_score": 38.32142857142857,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "ee5130b8-529f-40f2-bfc0-a84f27010950",
+        "name": "Julian Andres Guerra Herrera",
+        "email": "julian.guerra@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075262,
+        "updated_at": 1755075262,
+        "last_active_at": 1756136907
+      },
+      "chats": [
+        {
+          "id": "ce8bb700-ef31-4076-a1d1-feff1f3c6726",
+          "title": "Entrevistas para cultura de experimentación 🧪",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755804842,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Me alegra verte por aquí. ¿Tu proyecto es “RETO 5: Fomentar una cultura organizacional que ce...",
+            "1.1 **Falta de compromiso y participación de los colaboradores, Falta de inversión con recursos sufi..."
+          ]
+        },
+        {
+          "id": "04c3a185-5599-4047-9248-b7083801d19d",
+          "title": "Cultura de Experimentación 🧪",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615152,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "Hola — qué bueno verte por aquí. Veo que estás trabajando en el proyecto \"Reto 5: Fomentar una cultu..."
+          ]
+        },
+        {
+          "id": "d9e0ad5f-6d19-4c18-891b-0d7e48fed9af",
+          "title": "Usuarios sintéticos Bancamía 🏦",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755614466,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ya estamos en el reto Bancamia",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "3d24ce12-94dc-4d52-9a8c-f22f9ddcf03b",
+          "title": "Crew de fiesta fin semestre 🎉",
+          "depth": 16,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103769,
+          "is_valid": false,
+          "messages_preview": [
+            "necesito organizar una fiesta de fin de semestre el ultimo viernes del mes de noviembre, necesito pe...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ armar una fiesta de fin de semestre que quede en l...",
+            "que musica nos sugieres de acuerdo a la temática de la fiesta"
+          ]
+        }
+      ],
+      "total_chats": 4,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 12.0,
+      "completion_rate": 25.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 35.25,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "adcaac13-52ee-4168-9701-679f2e42c37d",
+        "name": "veronica navarrete",
+        "email": "veronica.navarrete@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075261,
+        "updated_at": 1755075261,
+        "last_active_at": 1756134678
+      },
+      "chats": [
+        {
+          "id": "faeaf756-f01d-42a0-9ed1-14973f465ba3",
+          "title": "Creación de usuarios sintéticos 🤝",
+          "depth": 10,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756133578,
+          "is_valid": true,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "mira te adjunto las  preguntas"
+          ]
+        },
+        {
+          "id": "4b6e630a-acd8-4240-af1a-709333a8a3a2",
+          "title": "Crear perfiles sintéticos 🏦",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756131195,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "a5c7d8d1-e409-45e0-9a84-209b2b430f22",
+          "title": "Entrevistas de fidelización 🎯",
+          "depth": 26,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755792735,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu compañera en el Bootcamp de Innovación con IA de Bancamía. Veo que estás trabaja...",
+            "si estoy en el reto 2"
+          ]
+        },
+        {
+          "id": "c671068d-d805-41e7-be8d-f073cee2afb8",
+          "title": "Crear usuarios sintéticos 🤝",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615821,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "OPCIÓN B"
+          ]
+        },
+        {
+          "id": "9c1a1078-5cf1-4766-9583-9eff6fd46241",
+          "title": "Crear usuarios sintéticos 👥",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615207,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "f2787081-ccb3-496d-ba95-bdaa513acd08",
+          "title": "Rumba Bancamía en Teatrón 🎉",
+          "depth": 32,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103156,
+          "is_valid": false,
+          "messages_preview": [
+            "kuibo paisa, necesito armar una fiesta con todos los poderes asi: **1. ¿Qué rumba es y por qué la ar...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la vibra a esta fiesta de Bancamía. Me ...",
+            "*   ¿Qué formato quieres?  \n    \n  \n  \n• Flyer  \ndigital (para redes y WhatsApp)  \n  \n  \n*   ¿En qué..."
+          ]
+        }
+      ],
+      "total_chats": 6,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 10.0,
+      "completion_rate": 16.666666666666664,
+      "innovation_engagement": 12.5,
+      "quality_score": 28.749999999999996,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "73ecc7aa-a49d-493a-bebf-7b6dd075ff24",
+        "name": "Jose Antonio Bravo Lucero",
+        "email": "jose.bravol@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075265,
+        "updated_at": 1755075265,
+        "last_active_at": 1756241348
+      },
+      "chats": [
+        {
+          "id": "d183beeb-b96b-4b35-9d69-b53a68d33b5c",
+          "title": "Generador de Hipótesis 🧠",
+          "depth": 42,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756232126,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía especializada de Bancamía en este hackathon. Mi misión es ayudarte a transf...",
+            "si"
+          ]
+        },
+        {
+          "id": "a1b290d2-b4bb-4732-810e-cb3f377d9643",
+          "title": "Desafío Supuestos Ocultos 🧠",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756227822,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía especializada de Bancamía en este hackathon de innovación. Mi misión es ayu...",
+            "si"
+          ]
+        },
+        {
+          "id": "7eb1d9df-98a7-44f8-82f4-77f43a1f641d",
+          "title": "Nuevo Chat",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756227696,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "",
+            "hola"
+          ]
+        },
+        {
+          "id": "dee20195-ff8c-4023-980d-bcbb7d766e66",
+          "title": "Simulación entrevista JTBD 🤝",
+          "depth": 10,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756225119,
+          "is_valid": true,
+          "messages_preview": [
+            "Hola",
+            "Cuanta más profundidad y detalle ofrezcas en cada respuesta, más útiles y precisos serán mis simulac...",
+            "Mi nombre es Jose a) El mismo nombre b) esperamos bajar el 10% de la mora de clientes quedan en mora..."
+          ]
+        },
+        {
+          "id": "1a0f848a-0825-4233-a4f8-2b6f77554ec9",
+          "title": "Crear usuarios sintéticos 👥",
+          "depth": 24,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756224162,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "B"
+          ]
+        },
+        {
+          "id": "d3b4aeba-17c2-4908-ace4-10124d8bf64e",
+          "title": "Perfiles sintéticos Bancamía 👥",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756224065,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "B"
+          ]
+        },
+        {
+          "id": "1426f6e4-18ea-433b-b05c-20dbc1f70e5f",
+          "title": "Crear usuarios sintéticos 🧑‍🤝‍🧑",
+          "depth": 14,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756153497,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "Tengo la encuesta  formulada pero esta sin contestar"
+          ]
+        },
+        {
+          "id": "aa284df4-f00b-465f-a846-3f8c24287b8e",
+          "title": "Entrevistas Cobranza Empática 🤝",
+          "depth": 24,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1756132642,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Soy Alma, tu compañera en el Bootcamp. Veo que tu proyecto apunta a: mejorar la eficiencia en...",
+            "Te entrego las repuestas a la peguntas que me has planteado"
+          ]
+        },
+        {
+          "id": "7407e038-be49-45c9-b71f-f16fcaf72710",
+          "title": "Entrevistas Cobranza Empática 🤝",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1756132554,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Me alegra que quieras planear tus entrevistas — estás dando un paso clave para validar soluci..."
+          ]
+        },
+        {
+          "id": "2221afa3-504b-4168-aaaa-8d98e21842f3",
+          "title": "Entrevistas para cobranza empática 🤝",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755722840,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Me alegra mucho que quieras planear tus entrevistas. Veo que tu proyecto es “RETO 3: Mejorar ..."
+          ]
+        },
+        {
+          "id": "10fd9d93-3152-480e-a78c-52dc9427bbef",
+          "title": "Fiesta de Innovación 🎉",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755104179,
+          "is_valid": false,
+          "messages_preview": [
+            "La rumba es tematica y la armamos porque estamos en el curso de bienvenida en el campo de innovacion...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ armar la “Fiesta de la Innovación” más berraca del...",
+            "Ten en cuenta que en esta fiesta no se pueda utilizar celulares y todos los participantes pueden hac..."
+          ]
+        },
+        {
+          "id": "d0b51b8d-354f-442d-8246-2444d17883d5",
+          "title": "🎉 Fiesta de Innovación Roles",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755104115,
+          "is_valid": false,
+          "messages_preview": [
+            "La rumba es tematica y la armamos porque estamos en el curso de bienvenida en el campo de innovacion...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow a la Fiesta de la Innovación. Entonces,..."
+          ]
+        },
+        {
+          "id": "6b8faf13-d7bf-4639-8d0b-a512847424e7",
+          "title": "Fiesta Virtual de Innovación 🎉",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103497,
+          "is_valid": false,
+          "messages_preview": [
+            "La rumba es tematica y la armamos porque estamos en el curso de bienvenida en el campo de innovacion...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la chispa a “La Fiesta de la Innovación...",
+            "Necesitamos reestructurar la idea por favor haz que esta fiesta sea mas divertida y loca"
+          ]
+        },
+        {
+          "id": "49d93dd1-fa14-4cbe-ae76-46f3218bd89f",
+          "title": "🚀 Guía creativa Hackathon",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755102692,
+          "is_valid": false,
+          "messages_preview": [
+            "Quiero armar una fiesta que me recomiendas?",
+            "¡Quiubo, parce! Soy Finni, tu compa creativo pa’ darle flow al hackathon de Bancamía. Veo que querés...",
+            "La rumba es tematica y la armamos porque estamos en el curso de bienvenida en el campo de innovacion..."
+          ]
+        }
+      ],
+      "total_chats": 14,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 10.0,
+      "completion_rate": 7.142857142857142,
+      "innovation_engagement": 12.5,
+      "quality_score": 25.892857142857146,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "d356ac2d-ecbc-41c3-b055-c1e20218b394",
+        "name": "Catherin Guambasique",
+        "email": "catherin.guambasique@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075258,
+        "updated_at": 1755075258,
+        "last_active_at": 1756156479
+      },
+      "chats": [
+        {
+          "id": "fe5e551d-1c8e-4898-865b-b2a4aa83d81f",
+          "title": "🔎 Diagnóstico de Experiencia Bancaria",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": true,
+          "workflow_type": null,
+          "created_at": 1756131243,
+          "is_valid": true,
+          "messages_preview": [
+            "hola tengo el reto de entender el verdadero dolor de por que los clientes no valoran su experiencia ...",
+            "¡Buenísimo reto! Estás atacando el corazón de la fidelización. Si entendemos el dolor real, podremos...",
+            "microcrédito nuevo para comerciante urbano con un negocio en proceso de formalización, la etapa es d..."
+          ]
+        },
+        {
+          "id": "d96c7efd-7ba9-4907-87a1-92e8566e6bf4",
+          "title": "Usuarios sintéticos Bancamía 🤝",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756127944,
+          "is_valid": false,
+          "messages_preview": [
+            "usuario",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Veo que están trabaja...",
+            "b"
+          ]
+        },
+        {
+          "id": "cd6facd6-036b-4bee-a653-a479ea51eee6",
+          "title": "Entrevistas para fidelización 🔍",
+          "depth": 12,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755820222,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Qué bueno que quieres planear tus entrevistas. Veo que estás trabajando en el proyecto \"RETO ...",
+            "debajo de cada pregunta va la respuesta: 1.1 ¿Cuál es el problema central que intentamos resolver co..."
+          ]
+        },
+        {
+          "id": "4f34cdea-defe-4b71-b30f-9044a746aadd",
+          "title": "Crear usuarios sintéticos 🧑‍💼",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615790,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "223caf84-f2ab-4fe1-b2fb-bcfbf428678d",
+          "title": "🔍 Entrevistas de fidelización bancaria",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755615102,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Me alegra que quieras planear tus entrevistas. Confirmo que estás trabajando el proyecto: \"RE..."
+          ]
+        },
+        {
+          "id": "c8b75cf2-f32c-462f-a845-9cd801c85d66",
+          "title": "Planear entrevistas usuarios sintéticos 📝",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755614676,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "564a1116-90bc-4ea0-838f-9ac9de7667cf",
+          "title": "🎉 Fiesta Código Neón",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755104655,
+          "is_valid": false,
+          "messages_preview": [
+            "vamos una fiesta con temática neon, me gusta el nombre codigo neon y esta es para dar inicio a una n...",
+            "¡Qué más, parce! Oíste, entendí que armás una fiesta “Código Neón” pa’ darle la bienvenida a una nue...",
+            "plantea una invitación para los invitados e involucra una cancion tematica para este evento"
+          ]
+        }
+      ],
+      "total_chats": 7,
+      "valid_chats": 1,
+      "agent_chats": 0,
+      "avg_depth": 6.0,
+      "completion_rate": 14.285714285714285,
+      "innovation_engagement": 12.5,
+      "quality_score": 20.035714285714285,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "e9c5ec14-3d1b-4d0f-95ae-3393c089ebf0",
+        "name": "Angela Isabel Rodriguez Torres",
+        "email": "angela.rodriguez@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075266,
+        "updated_at": 1755075266,
+        "last_active_at": 1756158501
+      },
+      "chats": [
+        {
+          "id": "342a1ad2-9248-4cf7-8476-7f3541759323",
+          "title": "Cultura de Experimentación 💡",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755896450,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Me alegra que quieras planear tus entrevistas — vamos a hacerlo paso a paso. Veo que tu proye..."
+          ]
+        },
+        {
+          "id": "5d859066-8441-4a12-a07d-0b01123be0ec",
+          "title": "Entrevistas para Experimentación 🧪",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755614695,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Veo que quieres planear entrevistas para el proyecto \"RETO 5: Fomentar una cultura organizaci...",
+            "hola"
+          ]
+        },
+        {
+          "id": "d996408e-ec66-492f-a306-2714307df414",
+          "title": "🎉 Fiesta Lean Bancamía",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755102757,
+          "is_valid": false,
+          "messages_preview": [
+            "como armar una fiesta",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ romperla en este hackathon de Bancamía. ¿Querés or...",
+            "inauguración del proyecto"
+          ]
+        }
+      ],
+      "total_chats": 3,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 3.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "a99f0c84-ae00-44f3-b212-0829b65671d3",
+        "name": "Erika Rueda",
+        "email": "erika.rueda@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755617176,
+        "updated_at": 1755617176,
+        "last_active_at": 1755619309
+      },
+      "chats": [
+        {
+          "id": "cc9eb825-925e-45f2-a365-e3a2e1f5bdc8",
+          "title": "🎯 Entrevistas MOESTA y JTBD",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755619270,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu compañera del Bootcamp de Innovación con IA de Bancamía. Estoy aquí para ayudart..."
+          ]
+        }
+      ],
+      "total_chats": 1,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 3.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "09c593a9-9381-4e88-adce-0c47cf861aa1",
+        "name": "Pablo Tovar",
+        "email": "pedro.tovar@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075257,
+        "updated_at": 1755075257,
+        "last_active_at": 1756387252
+      },
+      "chats": [
+        {
+          "id": "e6901ccd-d6ea-4700-a9f8-f3da384ea4fd",
+          "title": "Entrevistas digitales con toque humano 🤝",
+          "depth": 22,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": "Entrevistas",
+          "created_at": 1755614631,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas!",
+            "¡Hola! Muy bien — te acompaño a planear tus entrevistas para el reto: “Digitalizar la experiencia si...",
+            "Hola"
+          ]
+        }
+      ],
+      "total_chats": 1,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 12.5,
+      "quality_score": 3.75,
+      "unique_workflows": [
+        "Entrevistas"
+      ]
+    },
+    {
+      "user": {
+        "id": "77f1ca3f-18ca-4c61-abce-bee36047beca",
+        "name": "Adriana Aguilera Rodríguez",
+        "email": "adriana.aguilera@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075263,
+        "updated_at": 1755075263,
+        "last_active_at": 1756400641
+      },
+      "chats": [
+        {
+          "id": "f661d520-3f7e-42d9-84e9-347a4e272c02",
+          "title": "🗣️ Simulación entrevista JTBD",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756095148,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola chat puedo hacerte preguntas y tomar un usuario sintético de los que me ayudaste a crear",
+            "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Veo que tu proyecto es \"RETO 1: Acelerar la ...",
+            "Quiero utilizar los usuarios sintéticos que me ayudaste a crear"
+          ]
+        },
+        {
+          "id": "b1b9aa8f-0da7-4052-86a2-9c79184f30f5",
+          "title": "Crear usuario sintético 🧑‍💼",
+          "depth": 18,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756090803,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola!!! Quiero crear un usuario",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "A\nTengo el RETO 1"
+          ]
+        },
+        {
+          "id": "f6a3fce2-070e-4d8c-b6dd-9c2e16396c3f",
+          "title": "Crear usuario sintético 🧑‍💻",
+          "depth": 30,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755748190,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola!!! Quiero crear un usuario para mi reto",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a...",
+            "B"
+          ]
+        },
+        {
+          "id": "0f10771c-d823-45de-bb47-9785d4fa8c3b",
+          "title": "Prospectos mensuales de calidad 📈",
+          "depth": 18,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755744580,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola ¡quiero planear mis entrevistas! Mi reto es: ¿Cómo podríamos generar más prospectos mensuales d...",
+            "Hola — genial que quieras planear las entrevistas. Confirmo tu reto: “¿Cómo podríamos generar más pr...",
+            "1.1 El mayor problema de generar prospectos es que muchas veces la información es errónea, no es pos..."
+          ]
+        }
+      ],
+      "total_chats": 4,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "9bf99154-daa7-4236-852c-d5d407290232",
+        "name": "Angelica Gomez",
+        "email": "angelica.gomez@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755502171,
+        "updated_at": 1755502171,
+        "last_active_at": 1756134971
+      },
+      "chats": [
+        {
+          "id": "108cb10d-ae29-4073-8eb2-05405f3a87db",
+          "title": "📱 5 Hipótesis Bancamóvil",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756133579,
+          "is_valid": false,
+          "messages_preview": [
+            "Tengo un reto, y es que debo tener 5 hipótesis acerca de un problema que radica en que un cliente es...",
+            "¡Excelente reto! Plantear hipótesis claras y testeables es clave para descubrir por qué tus clientes..."
+          ]
+        },
+        {
+          "id": "db8bd12f-432c-4282-ba5a-ad0d5bd013dc",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756133200,
+          "is_valid": false,
+          "messages_preview": [
+            "Tengo un reto en Bancamía, y necesito unas hipotesis frente a un problema que ya planteamos y es que...",
+            ""
+          ]
+        },
+        {
+          "id": "23c35345-2293-4cb0-926f-f9f3d951bc9c",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756133094,
+          "is_valid": false,
+          "messages_preview": [
+            "Tengo un reto ¿Me ayudas?",
+            ""
+          ]
+        },
+        {
+          "id": "20520c6f-1e23-4b01-b82a-8733abb633d0",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756133000,
+          "is_valid": false,
+          "messages_preview": [
+            "engo un reto en el cuál tengo un cliente activo sin la aplicación del Banco, y no la usa. Necesito u...",
+            ""
+          ]
+        },
+        {
+          "id": "de3df9f1-b7b2-4c77-80ff-b94287385f17",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756132952,
+          "is_valid": false,
+          "messages_preview": [
+            "Tengo un reto en el cuál tengo un cliente activo sin la aplicación del Banco, y no la usa. Necesito ...",
+            ""
+          ]
+        }
+      ],
+      "total_chats": 5,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "7cf20a88-da2c-40fc-bc51-7f5cf008a367",
+        "name": "Angelica Vargas Bedoya",
+        "email": "angelica.vargas@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075259,
+        "updated_at": 1755075259,
+        "last_active_at": 1756139002
+      },
+      "chats": [
+        {
+          "id": "5a220307-9ae8-40bc-ad3f-f5adc019e901",
+          "title": "🤝 Banca Digital Humana",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756132687,
+          "is_valid": false,
+          "messages_preview": [
+            "Tenemos un reto en Bancamía: Digitalizar sin perder el toque humano: ¿Cómo combinar herramientas dig...",
+            "¡Excelente trabajo al definir el reto y escoger el segmento “Clientes Activos sin Bancamóvil”. A con...",
+            "diseña 5 hipótesis máss"
+          ]
+        },
+        {
+          "id": "c148d153-a370-4f06-b901-3187262c7f9f",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756132549,
+          "is_valid": false,
+          "messages_preview": [
+            "Tenemos un reto en Bancamía: Digitalizar sin perder el toque humano: ¿Cómo combinar herramientas dig...",
+            ""
+          ]
+        },
+        {
+          "id": "a7543dd5-83f6-448c-8dac-95f96c44f94f",
+          "title": "🚀 Bootcamp Innovación IA",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756131818,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Bienvenido al Bootcamp de Innovación con IA de Bancamía 🎉. Soy Alma, tu guía de confianza en ..."
+          ]
+        },
+        {
+          "id": "723ff623-f74a-40b6-9bbf-bf5917461f1f",
+          "title": "Entrevista a profundidad 🎙️",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755985010,
+          "is_valid": false,
+          "messages_preview": [
+            "Entrevista a profundidad",
+            ""
+          ]
+        },
+        {
+          "id": "73debb18-77b0-424e-865c-cea2d305cace",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755980472,
+          "is_valid": false,
+          "messages_preview": [
+            "Tenemos un reto en Bancamía: Digitalizar sin perder el toque humano: ¿Cómo combinar herramientas dig...",
+            ""
+          ]
+        },
+        {
+          "id": "7890daa5-a88e-4123-8940-2b8999c1d979",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755980234,
+          "is_valid": false,
+          "messages_preview": [
+            "Tenemos un reto en Bancamía: Digitalizar sin perder el toque humano: ¿Cómo combinar herramientas dig...",
+            ""
+          ]
+        },
+        {
+          "id": "dc8725a0-567f-4e69-b11b-4073120ef04b",
+          "title": "Nuevo Chat",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755976643,
+          "is_valid": false,
+          "messages_preview": [
+            "En Bancamía tenemos un reto: ¿Cómo podemos combinar herramientas digitales con acompañamiento person...",
+            ""
+          ]
+        },
+        {
+          "id": "167af2b7-7c36-4a6e-be41-681d625877eb",
+          "title": "Fiesta Neón Bancamía 🎉",
+          "depth": 18,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103963,
+          "is_valid": false,
+          "messages_preview": [
+            "Vamos a hacer una fiesta por la nueva Etapa de Bancamía donde acoge la innovación. Aquí vamos a tene...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ armar la fiesta Neón de la nueva Etapa de Bancamía...",
+            "más ideas en los perfiles y también agrega efecto Wow en las actividades, por fa organiza mejor los ..."
+          ]
+        }
+      ],
+      "total_chats": 8,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "3eccccbb-0303-4bb6-bc18-02364359dfab",
+        "name": "Brandon Steven Garzón Rincón",
+        "email": "brandon.rincon@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075262,
+        "updated_at": 1755075262,
+        "last_active_at": 1755114459
+      },
+      "chats": [
+        {
+          "id": "4a4c60a5-6f35-4f56-bd60-cd947c5dc406",
+          "title": "Carne al Barril Startup 🥩",
+          "depth": 14,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755112397,
+          "is_valid": false,
+          "messages_preview": [
+            "quiero crear mi emprendimiento de carne al barril para los fines de semana, afuera de mi casa, soach...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow y método lean a ese emprendimiento de c...",
+            "me gu8starian los 3"
+          ]
+        },
+        {
+          "id": "c4c50dbf-5dbf-4348-967d-14e0df8c84dd",
+          "title": "🛢️ Efecto Barril Recordación",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755111805,
+          "is_valid": false,
+          "messages_preview": [
+            "algo que genere recordacion como el barril del chavo",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ este hackathon de Bancamía. Me pillaste hablando d..."
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "ffe09a1b-65d5-48e6-9336-f6c2a9d16829",
+        "name": "Carolina Molina",
+        "email": "diana.molina@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755617233,
+        "updated_at": 1755617233,
+        "last_active_at": 1755617233
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "e46916ed-5463-42c9-8b96-196520ffcfa9",
+        "name": "Catalina",
+        "email": "catalina.gutierrez@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755101570,
+        "updated_at": 1755101570,
+        "last_active_at": 1755615921
+      },
+      "chats": [
+        {
+          "id": "405ae84d-67fb-4a39-a87f-302788c1fc74",
+          "title": "Creación de usuarios sintéticos 👥",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615755,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de a..."
+          ]
+        },
+        {
+          "id": "e33e1b92-ee05-41af-bdd5-9088c9039bc1",
+          "title": "Introducción Hackathon Finni 🚀",
+          "depth": 16,
+          "is_agent_chat": true,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755102986,
+          "is_valid": false,
+          "messages_preview": [
+            "hola quiero hacer una fiesta con mis amigos",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ este hackathon de Bancamía. Contame un poco más:  ...",
+            "estoy hasta ahora ideando"
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 0,
+      "agent_chats": 1,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "9cc28c8f-0ce9-4cc2-a899-5a6832790571",
+        "name": "Cristhian Camilo Ruiz",
+        "email": "cristhian.ruiz@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075262,
+        "updated_at": 1755075262,
+        "last_active_at": 1756399270
+      },
+      "chats": [
+        {
+          "id": "fb60c64e-f3af-4a80-8977-c0d2f86ea6be",
+          "title": "Cultura de Experimentación 💡",
+          "depth": 52,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755634358,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Hola! Soy Alma, tu guía en el Bootcamp de Innovación con IA. Veo que estás trabajando en el proyect...",
+            "Adjunto respuestas"
+          ]
+        },
+        {
+          "id": "5af245b1-1760-4f97-ad3f-141fab71ed44",
+          "title": "Cultura de Experimentación 💡",
+          "depth": 10,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755615168,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu compañera del Bootcamp de Innovación con IA en Bancamía. Veo que estás trabajand...",
+            "Hola"
+          ]
+        },
+        {
+          "id": "26853383-bcbc-4ce6-8e3b-8fb28c81c773",
+          "title": "Fiesta Black con Bluetooth 🖤🎧",
+          "depth": 20,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103793,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola Te voy entregar un contexto para una fiesta de los empleados de un Banco con el fin de celebrar...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow a este evento de fin de año. Entendí qu...",
+            "estoy en una fase de ideacion, necesito un esquema para presentar ante la junta directiva y una narr..."
+          ]
+        }
+      ],
+      "total_chats": 3,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "c5a720db-0a75-4792-a293-b9a0b6f0be70",
+        "name": "Daniela Alejandra Beltran Zambrano",
+        "email": "alejandra.beltran@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075260,
+        "updated_at": 1755075260,
+        "last_active_at": 1755075260
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "359d255d-fd43-4a21-811d-14d41cc5c25f",
+        "name": "Edilberto Reyes Quintero",
+        "email": "edilberto.reyes@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075263,
+        "updated_at": 1755075263,
+        "last_active_at": 1756070972
+      },
+      "chats": [
+        {
+          "id": "39b83761-7ea9-4560-b96a-5001d47d3e98",
+          "title": "👋 Bienvenida de Finni",
+          "depth": 4,
+          "is_agent_chat": true,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1756070634,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la vibra al Bootcamp de Bancamía. ¿Qué ...",
+            ""
+          ]
+        },
+        {
+          "id": "dfe1ab73-3679-49d0-a981-2e7ff20c9d1b",
+          "title": "Usuarios sintéticos Bancamía 👥",
+          "depth": 2,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755617740,
+          "is_valid": false,
+          "messages_preview": [
+            "Hola",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Estoy aquí para apoya..."
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 0,
+      "agent_chats": 1,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "e7368747-3438-45c9-b753-66e529453b41",
+        "name": "Juan David Obando Uribe",
+        "email": "juan.obando@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075265,
+        "updated_at": 1755075265,
+        "last_active_at": 1755119173
+      },
+      "chats": [
+        {
+          "id": "1750be25-686c-494e-a578-c1bf1f571fb9",
+          "title": "📝 Tareas líder microcrédito",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755117837,
+          "is_valid": false,
+          "messages_preview": [
+            "15 actividades que hace un lider de microredito",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ este hackathon de Bancamía. Antes de soltar la lis...",
+            "de estas tares escoger 5 que pueda delegar"
+          ]
+        },
+        {
+          "id": "1f61b549-5bab-4511-bb3e-baced6788f53",
+          "title": "🎉 Innovation Event Roles",
+          "depth": 10,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103651,
+          "is_valid": false,
+          "messages_preview": [
+            "Actúa como un experto en organización de eventos y ayúdame a organizar un evento, para la inauguraci...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo y experto en organización de eventos pa’ arrancar con ...",
+            "Realiza un pront para organizar una fiesta enfocada en la innauguracion de un evento enfocado en tem..."
+          ]
+        }
+      ],
+      "total_chats": 2,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "23a08566-4f56-466a-87a2-7b3efb993709",
+        "name": "Juliana Lopez Montoya",
+        "email": "juliana.lopez@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075266,
+        "updated_at": 1755075266,
+        "last_active_at": 1756136626
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "4b9be427-d4d6-4464-9ab1-a514667e7a8a",
+        "name": "Larry Steward Tibaduiza Mahecha",
+        "email": "larry.tibaduiza@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075261,
+        "updated_at": 1755075261,
+        "last_active_at": 1755075261
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "c5c8fdcb-fbf1-43dd-860d-00576e808d20",
+        "name": "Luis Alberto Solano Rodriguez",
+        "email": "luis.solano@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075263,
+        "updated_at": 1755075263,
+        "last_active_at": 1755837043
+      },
+      "chats": [
+        {
+          "id": "39bd6f5e-fd87-419c-a5ec-0a8d106cc72d",
+          "title": "🧭 Simulación JTBD Bancamía",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755835236,
+          "is_valid": false,
+          "messages_preview": [
+            "1.  Cuéntame sobre la última vez que tuviste una idea para mejorar algo en el banco. ¿Qué pasó desde...",
+            "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Vamos a simular una entrevista de descubrimi...",
+            "TENGO EL SIGUIENTE PROBLEMA:"
+          ]
+        },
+        {
+          "id": "c4f473ba-3e18-478f-beb6-52a0e5cef2e2",
+          "title": "Canal de Ideas Internas 💡",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755835101,
+          "is_valid": false,
+          "messages_preview": [
+            "1.  Cuéntame sobre la última vez que tuviste una idea para mejorar algo en el banco. ¿Qué pasó desde...",
+            "¡Hola! Soy Alma, tu guía de Bancamía para el Bootcamp de Innovación con IA. Me encanta que estés lis...",
+            "b"
+          ]
+        },
+        {
+          "id": "30aab9e6-5ab1-44b4-8dbe-70f7ac75ace2",
+          "title": "Cultura de Experimentación 🧪",
+          "depth": 8,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755833678,
+          "is_valid": false,
+          "messages_preview": [
+            "hola quiero plantear mis entrevistas",
+            "¡Hola! Veo que quieres plantear entrevistas para el proyecto \"RETO 5: Fomentar una cultura organizac...",
+            "para el problema : pregunta 1 lo que se quiere resolver  es como se podrian crear espacios seguros d..."
+          ]
+        },
+        {
+          "id": "3e9236a7-0912-4c16-b290-28345263f6b8",
+          "title": "🛡️ Innovación sin miedo",
+          "depth": 28,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755830818,
+          "is_valid": false,
+          "messages_preview": [
+            "hola , identifique un problema relacionado como crear espacios seguros para proponer, probar y falla...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ ponerle flow al Bootcamp de Bancamía. Oíste, enten...",
+            "estoy en fase de ideacion, requiero un prototipo rapido, el publico objetivo son todos los colaborad..."
+          ]
+        },
+        {
+          "id": "3e092597-3336-41d7-8b21-99cc18c3910d",
+          "title": "🚀 Bootcamp Innovación Bancamía",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755830032,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la vibra al Bootcamp de Innovación de B...",
+            "Estoy en fase de ideacion, un prototipo rapido con unas diapositivas que peguen duro el proyecto tra..."
+          ]
+        },
+        {
+          "id": "b9f3b6a2-b968-4816-b2bc-9a1e1ff001b0",
+          "title": "Preparación Hackathon Bancamía 🚀",
+          "depth": 4,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755746920,
+          "is_valid": false,
+          "messages_preview": [
+            "hola",
+            "¡Qué más, parce! Soy Finni, tu compa creativo pa’ romperla en el hackathon de innovación de Bancamía...",
+            "estoy en fase de ideacion,un prototipo rapido con unas diapositivas que peguen duro el proyecto trat..."
+          ]
+        },
+        {
+          "id": "f4d29e44-6f8e-47fc-afa7-6d4a4d3afb40",
+          "title": "💡 Innovación y usuarios sintéticos",
+          "depth": 28,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755570245,
+          "is_valid": false,
+          "messages_preview": [
+            "actua como un experto en innovacion  y busquemos dolores que han manifestado clientes de bancamia y ...",
+            "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas y apoyar la innovación...",
+            "b"
+          ]
+        },
+        {
+          "id": "e645c563-1fbf-4745-9547-14aa7ef589e0",
+          "title": "🚀 Roles para Evento Innovador",
+          "depth": 6,
+          "is_agent_chat": false,
+          "is_completed": false,
+          "workflow_type": null,
+          "created_at": 1755103632,
+          "is_valid": false,
+          "messages_preview": [
+            "Actúa como un experto en organización de eventos y ayúdame a organizar un evento, para la inauguraci...",
+            "¡Qué más, parce! Soy Finni, tu compa creativo y experto en organizar eventos de alto impacto. Me cue...",
+            "ideacion 20 invitados tono formal"
+          ]
+        }
+      ],
+      "total_chats": 8,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0.0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "644221dc-5851-4d96-baa3-de7d387129b5",
+        "name": "Marco Andrés Osuna Vargas",
+        "email": "marco.osuna@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075257,
+        "updated_at": 1755075257,
+        "last_active_at": 1755075257
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    },
+    {
+      "user": {
+        "id": "5a393fbc-cebd-4483-8cd7-33d13f9a7911",
+        "name": "ferney melo",
+        "email": "ferney.melo@bancamia.com.co",
+        "role": "user",
+        "created_at": 1755075264,
+        "updated_at": 1755075264,
+        "last_active_at": 1755075264
+      },
+      "chats": [],
+      "total_chats": 0,
+      "valid_chats": 0,
+      "agent_chats": 0,
+      "avg_depth": 0,
+      "completion_rate": 0,
+      "innovation_engagement": 0.0,
+      "quality_score": 0.0,
+      "unique_workflows": []
+    }
+  ],
+  "generated_at": "2025-08-29T03:59:10.406452"
+}
