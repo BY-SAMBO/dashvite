@@ -1,0 +1,314 @@
+{
+  "conversation_samples": [
+    {
+      "user_name": "Adriana Aguilera Rodríguez",
+      "title": "🗣️ Simulación entrevista JTBD",
+      "message_count": 6,
+      "created_at": 1756095148,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "Hola chat puedo hacerte preguntas y tomar un usuario sintético de los que me ayudaste a crear",
+          "timestamp": 1756095148,
+          "word_count": 17
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Veo que tu proyecto es \"RETO 1: Acelerar la captación de clientes\" — ¿es correcto? [1]\n\nCuanta...",
+          "timestamp": 1756095148,
+          "word_count": 264
+        },
+        {
+          "role": "user",
+          "content_preview": "Quiero utilizar los usuarios sintéticos que me ayudaste a crear",
+          "timestamp": 1756095256,
+          "word_count": 10
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Perfecto! Soy Alma, tu guía de Bancamía en este hackathon. Confirmo que tu proyecto es \"RETO 1: Acelerar la captación de clientes\" — ¿es correcto? [1...",
+          "timestamp": 1756095256,
+          "word_count": 215
+        },
+        {
+          "role": "user",
+          "content_preview": "2.  Quiero utilizar el usuario sintético que ya me creaste anteriormente su nombre es Johan Gómez",
+          "timestamp": 1756095341,
+          "word_count": 16
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Soy Alma, tu guía de Bancamía en este hackathon. Veo que tu proyecto es \"RETO 1: Acelerar la captación de clientes\" — ¿es correcto? [1]\n\nCuanta...",
+          "timestamp": 1756095341,
+          "word_count": 519
+        }
+      ]
+    },
+    {
+      "user_name": "Adriana Aguilera Rodríguez",
+      "title": "Crear usuario sintético 🧑‍💼",
+      "message_count": 18,
+      "created_at": 1756090803,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "Hola!!! Quiero crear un usuario",
+          "timestamp": 1756090803,
+          "word_count": 5
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de ayudarte a crear perfiles perfectos para tu proyect...",
+          "timestamp": 1756090803,
+          "word_count": 120
+        },
+        {
+          "role": "user",
+          "content_preview": "A\nTengo el RETO 1",
+          "timestamp": 1756090869,
+          "word_count": 5
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Genial — gracias por confirmar! Veo que tu proyecto está en el RETO 1: Acelerar la captación de clientes [1]. Mi trabajo será convertir la informació...",
+          "timestamp": 1756090869,
+          "word_count": 250
+        },
+        {
+          "role": "user",
+          "content_preview": "1.  Reto 1. Acelerar el crecimiento de clientes nuevos en los diferentes segmentos. ¿Cómo podríamos generar más prospectos mensuales de calidad?\n    \n...",
+          "timestamp": 1756091975,
+          "word_count": 71
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Perfecto — gracias por la información! Veo que tu proyecto es el RETO 1: Acelerar la captación de clientes nuevos, así que orientaré los perfiles a g...",
+          "timestamp": 1756091975,
+          "word_count": 227
+        }
+      ]
+    },
+    {
+      "user_name": "Adriana Aguilera Rodríguez",
+      "title": "Crear usuario sintético 🧑‍💻",
+      "message_count": 30,
+      "created_at": 1755748190,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "Hola!!! Quiero crear un usuario para mi reto",
+          "timestamp": 1755748190,
+          "word_count": 8
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Soy Alma, tu guía de Bancamía para crear usuarios sintéticos realistas. Tengo dos formas de ayudarte a crear perfiles perfectos para tu proyect...",
+          "timestamp": 1755748190,
+          "word_count": 92
+        },
+        {
+          "role": "user",
+          "content_preview": "B",
+          "timestamp": 1755748237,
+          "word_count": 1
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Perfecto — vamos a construir tu usuario paso a paso! Haré una pregunta a la vez y esperaré tu respuesta antes de seguir.\n\nPrimero cuéntame, por favor...",
+          "timestamp": 1755748237,
+          "word_count": 61
+        },
+        {
+          "role": "user",
+          "content_preview": "El problema que estamos resolviendo es como generar 8000 prospectos mensuales de calidad en microempresarios urbanos formales",
+          "timestamp": 1755748417,
+          "word_count": 17
+        },
+        {
+          "role": "assistant",
+          "content_preview": "Perfecto — gracias por la claridad. Entiendo que tu reto es generar 8.000 prospectos mensuales de calidad entre microempresarios urbanos formales (Ret...",
+          "timestamp": 1755748417,
+          "word_count": 95
+        }
+      ]
+    },
+    {
+      "user_name": "Angela Isabel Rodriguez Torres",
+      "title": "Entrevistas para Experimentación 🧪",
+      "message_count": 8,
+      "created_at": 1755614695,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "Hola ¡quiero planear mis entrevistas!",
+          "timestamp": 1755614695,
+          "word_count": 5
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Veo que quieres planear entrevistas para el proyecto \"RETO 5: Fomentar una cultura organizacional que celebre la experimentación — ¿Cómo podría...",
+          "timestamp": 1755614695,
+          "word_count": 612
+        },
+        {
+          "role": "user",
+          "content_preview": "hola",
+          "timestamp": 1755616320,
+          "word_count": 1
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Veo que estás trabajando en el proyecto \"RETO 5: Fomentar una cultura organizacional que celebre la experimentación — ¿Cómo podríamos crear esp...",
+          "timestamp": 1755616320,
+          "word_count": 507
+        },
+        {
+          "role": "user",
+          "content_preview": "si quiero",
+          "timestamp": 1755620595,
+          "word_count": 2
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Hola! Soy Alma, el chatbot oficial de Bancamía en este hackathon. Vamos a simular paso a paso una entrevista de descubrimiento JTBD explorando las Cu...",
+          "timestamp": 1755620595,
+          "word_count": 183
+        }
+      ]
+    },
+    {
+      "user_name": "Angela Isabel Rodriguez Torres",
+      "title": "🎉 Fiesta Lean Bancamía",
+      "message_count": 8,
+      "created_at": 1755102757,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "como armar una fiesta",
+          "timestamp": 1755102757,
+          "word_count": 4
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Qué más, parce! Soy Finni, tu compa creativo pa’ romperla en este hackathon de Bancamía. ¿Querés organizar una fiesta pa’ celebrar un hito del equipo...",
+          "timestamp": 1755102757,
+          "word_count": 131
+        },
+        {
+          "role": "user",
+          "content_preview": "inauguración del proyecto",
+          "timestamp": 1755103525,
+          "word_count": 3
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle toda la flow a la inauguración del proyecto. Antes de soltar ideas, contame un poco más pa’ af...",
+          "timestamp": 1755103525,
+          "word_count": 137
+        },
+        {
+          "role": "user",
+          "content_preview": "Actúa como un experto en organización de eventos y ayúdame a organizar un evento, para la inauguración de un programa de inmersión con temática de inn...",
+          "timestamp": 1755103627,
+          "word_count": 54
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Qué más, parce! Soy Finni, tu compa creativo pa’ montar una inauguración de programa de inmersión con toda la vibra de innovación. Te tiro un squad l...",
+          "timestamp": 1755103627,
+          "word_count": 302
+        }
+      ]
+    },
+    {
+      "user_name": "Angelica Vargas Bedoya",
+      "title": "🤝 Banca Digital Humana",
+      "message_count": 6,
+      "created_at": 1756132687,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "Tenemos un reto en Bancamía: Digitalizar sin perder el toque humano: ¿Cómo combinar herramientas digitales con acompañamiento personal? Para esto te c...",
+          "timestamp": 1756132687,
+          "word_count": 299
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Excelente trabajo al definir el reto y escoger el segmento “Clientes Activos sin Bancamóvil”. A continuación encontrarás:  \n1) Comentarios sobre el p...",
+          "timestamp": 1756132687,
+          "word_count": 792
+        },
+        {
+          "role": "user",
+          "content_preview": "diseña 5 hipótesis máss",
+          "timestamp": 1756132766,
+          "word_count": 4
+        },
+        {
+          "role": "assistant",
+          "content_preview": "Aquí tienes 5 hipótesis adicionales, cada una explorando un ángulo distinto del problema “Clientes Activos sin Bancamóvil”. Incluyen el sesgo crítico ...",
+          "timestamp": 1756132766,
+          "word_count": 482
+        },
+        {
+          "role": "user",
+          "content_preview": "| **Perfil del Cliente** | **Usuario** | **Problema** | **Dolor** | **Hipótesis de Validación** |\n| --- | --- | --- | --- | --- |\n| **_1. Cliente Acti...",
+          "timestamp": 1756136906,
+          "word_count": 156
+        },
+        {
+          "role": "assistant",
+          "content_preview": "Veo que vuelves a presentar el perfil y la hipótesis de validación original en formato de tabla. Para asegurar que te entrego justo lo que necesitas, ...",
+          "timestamp": 1756136906,
+          "word_count": 95
+        }
+      ]
+    },
+    {
+      "user_name": "Brandon Steven Garzón Rincón",
+      "title": "Carne al Barril Startup 🥩",
+      "message_count": 14,
+      "created_at": 1755112397,
+      "conversation_flow": [
+        {
+          "role": "user",
+          "content_preview": "quiero crear mi emprendimiento de carne al barril para los fines de semana, afuera de mi casa, soacha compartir calle 29 sur #12a21, ya compre el barr...",
+          "timestamp": 1755112397,
+          "word_count": 27
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Qué más, parce! Soy Finni, tu compa creativo pa’ darle flow y método lean a ese emprendimiento de carne al barril que estás cocinando en Soacha.  \n\nC...",
+          "timestamp": 1755112397,
+          "word_count": 161
+        },
+        {
+          "role": "user",
+          "content_preview": "me gu8starian los 3",
+          "timestamp": 1755112443,
+          "word_count": 4
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Listo, parce! Entonces vamos con todo: prototipo rápido, pitch narrativo y unas slides que rompan. Pero antes pulimos el brief pa’ aterrizar bien:\n\n1...",
+          "timestamp": 1755112443,
+          "word_count": 333
+        },
+        {
+          "role": "user",
+          "content_preview": "a) ¿Quiénes son tus clientes top? (Vecinos, motoqueros, familia que busca plan de finde…)  \nb) ¿Qué te hace único frente a otros asados? (quiero algo ...",
+          "timestamp": 1755112533,
+          "word_count": 48
+        },
+        {
+          "role": "assistant",
+          "content_preview": "¡Listo, parce! Vamos a afinar esos detalles pa’ aterrizar todo bien:\n\na) Tus clientes top: elige uno o mezcla dos, según tu barrio:  \n   1. Vecinos de...",
+          "timestamp": 1755112533,
+          "word_count": 192
+        }
+      ]
+    }
+  ],
+  "agent_interactions": [],
+  "workflow_patterns": {}
+}
