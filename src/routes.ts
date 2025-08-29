@@ -1,4 +1,4 @@
-import { Bot, ChartPie, ChartSpline } from "lucide-react";
+import { Bot, ChartPie, ChartSpline, MessageSquare } from "lucide-react";
 import React from 'react';
 
 type NavItem = {
@@ -16,6 +16,7 @@ type RouteType = {
 };
 const routeSetting: NavItem[] = [
   { key: "dashboard", title: "menu.dashboard", icon: ChartPie },
+  { key: "openwebui-dashboard", title: "OpenWebUI Analytics", icon: MessageSquare },
   {
     key: "chart",
     title: "menu.chart",
